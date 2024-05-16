@@ -1,0 +1,43 @@
+body{
+    background-color: #ffea8e;
+}
+
+h1{ 
+    color: #ff8eb7;
+    font-size: 100px;
+    text-align: center;
+    font: Garamond;
+}
+
+.byline{
+    color: #ff8eb7;
+    text-align: center;
+    font-size: 50px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 25%;
+}
+
+tr{
+    color: #D68EFF;
+    font-size: 25px;
+}
+.html{
+    font-size: 50px;
+    width: 600px;
+    height: 284px;
+}
+
+h2{
+    color: #66ffdea2;
+    font-size: 80px;
+}
